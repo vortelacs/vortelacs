@@ -1,4 +1,4 @@
-👋 Hi, I'm Evghenii, a Computer Science Master's student at Aarhus University with a passion for software development.
+👋 Hi, I'm Evghenii, a backend software developer.
 
 🌟 I've acquired hands-on proficiency in Java and Appium, where I enhanced my teamwork and honed my communication skills.
 
